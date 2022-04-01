@@ -6,15 +6,17 @@ open termx type and execute commands
 
 <code>
 pkg update; pkg upgrade
-</code><br>
+</code><br><br>
 <code>pkg install wget curl</code>
 <br><br>
 <code>cd $HOME;wget https://raw.githubusercontent.com/SIDHARTH-GHULE/metasploit/main/metasploit-sid-termux.sh -q;bash metasploit-sid-termux.sh</code><br><br>
 
 <code>rm -rf /data/data/com.termux/files/usr/bin/msfvenom</code>
-
+<br><br>
 <code>cd;cd metasploit-framework;ln -s $HOME/metasploit-framework/msfvenom /data/data/com.termux/files/usr/bin/</code>
- <h3>after type msfconsole showing this ciphererror</h3>
+<br><br> 
+
+<h3>after type msfconsole showing this ciphererror</h3>
  <h1> unsupported (OpenSSL::Cipher::CiPherError)</h1>
  after installing metasploit-sid-termux go to home page and pest this bellow code 
 <br><br>

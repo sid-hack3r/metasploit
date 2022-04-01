@@ -6,10 +6,10 @@ open termx type and execute commands
 
 <code>
 pkg update; pkg upgrade
-</code>
+</code><br>
 <code>pkg install wget curl</code>
-
-<code>cd $HOME;wget https://raw.githubusercontent.com/SIDHARTH-GHULE/metasploit/main/metasploit-sid-termux.sh -q;bash metasploit-sid-termux.sh</code>
+<br><br>
+<code>cd $HOME;wget https://raw.githubusercontent.com/SIDHARTH-GHULE/metasploit/main/metasploit-sid-termux.sh -q;bash metasploit-sid-termux.sh</code><br><br>
 
 <code>rm -rf /data/data/com.termux/files/usr/bin/msfvenom</code>
 

@@ -1,5 +1,5 @@
 # Metasploit Fix Errors
-<h1>METASPLOIT INSTALL TERMUX WITHOUT ANY ALL ERROR FIXED</h1>
+<h1>METASPLOIT INSTALL TERMUX WITHOUT ANY  ERRORS FIXED!</h1>
 all fixed metasploit errors gems ruby 
 
 open termx type and execute commands
